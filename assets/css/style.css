@@ -1,0 +1,11 @@
+/* Start Vehicle Search Plugin Styles */
+
+
+.elementor-element-vehicleSearch {
+	padding: 10px;
+}
+
+#myVehicle .elementor-element {
+    width: 50%;
+    float: left;
+}

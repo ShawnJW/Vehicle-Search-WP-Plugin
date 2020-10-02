@@ -1,0 +1,18 @@
+{
+  "name": "vehicle-search-plugin",
+  "description": "A vehicle search plugin",
+  "license": "GPLv2",
+  "authors": [
+    "Creative Air Co."
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

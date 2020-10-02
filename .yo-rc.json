@@ -1,0 +1,20 @@
+{
+  "generator-plugin-wp": {
+    "name": "Vehicle Search Plugin",
+    "homepage": "https://creativeair.co",
+    "description": "A vehicle search plugin",
+    "version": "1.0",
+    "author": "Creative Air Co.",
+    "authoremail": "shawnw@creativeair.co",
+    "authorurl": "https://creativeair.co",
+    "license": "GPLv2",
+    "slug": "vehicle-search-plugin",
+    "classname": "Vehicle_Search_Plugin",
+    "mainclassname": "Vehicle_Search_Plugin",
+    "classprefix": "VSP_",
+    "prefix": "vehicle_search_plugin",
+    "year": 2020,
+    "currentVersionWP": "4.8.1",
+    "plugingenversion": "0.20.2"
+  }
+}
